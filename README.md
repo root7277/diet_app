@@ -1,4 +1,4 @@
-# plus_massanger
+# diet_app
 
 A new Flutter project created with FlutLab - https://flutlab.io
 
